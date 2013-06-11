@@ -1,6 +1,6 @@
 Ciudad-Verde
 ============
-
+Aplicacion sobre el transporte publico en Vitoria.
 Proyecto para Android, inspirado en Vitoria Green Capital 2012.
 Portado desde Google Code.
 
