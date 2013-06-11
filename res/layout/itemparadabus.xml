@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.cvcetic.ciudadverde.adapters.LineaListItem xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+    <ImageView
+        android:id="@+id/iconparada"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="7dp"
+        android:src="@drawable/parada" />
+
+    <TextView
+        android:id="@+id/direccionparada"
+        style="@style/botones"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="7dp"
+        android:text="Parada "
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/distancia"
+        style="@style/botones"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="2dp"
+        android:layout_marginTop="7dp"        
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+</com.cvcetic.ciudadverde.adapters.LineaListItem>

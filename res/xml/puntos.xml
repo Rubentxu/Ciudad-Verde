@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Puntos>
+	<Punto>
+		<id>1</id>
+		<direccion>Calle de Zaramaga, 1</direccion>
+		<direccioneu>Calle de Zaramaga, 1</direccioneu>
+		<nombre>Centro Comercial Boulevard</nombre>
+		<nombreeu>Centro Comercial Boulevard</nombreeu>
+		<longitud>-2.6679</longitud>
+		<latitud>42.86279</latitud>
+		<idtipo>1</idtipo>
+	</Punto>
+	<Punto>
+		<id>2</id>
+		<direccion>Plaza España 1</direccion>
+		<direccioneu>Plaza España 1</direccioneu>
+		<nombre>Oficina de turismo</nombre>
+		<nombreeu>Oficina de turismo</nombreeu>
+		<longitud>-2.67249</longitud>
+		<latitud>42.84612</latitud>
+		<idtipo>1</idtipo>
+	</Punto>
+	<Punto>
+		<id>3</id>
+		<direccion>Plaza Amadeo García de Salazar, 1</direccion>
+		<direccioneu>Plaza Amadeo García de Salazar, 1</direccioneu>
+		<nombre>Polideportivo de Mendizorrotza</nombre>
+		<nombreeu>Polideportivo de Mendizorrotza</nombreeu>
+		<longitud>-2.6858</longitud>
+		<latitud>42.8397</latitud>
+		<idtipo>1</idtipo>
+	</Punto>
+	<Punto>
+		<id>4</id>
+		<direccion>Alberto Schommer, 10</direccion>
+		<direccioneu>Alberto Schommer, 10</direccioneu>
+		<nombre>Centro Civico Hegoalde</nombre>
+		<nombreeu>Centro Civico Hegoalde</nombreeu>
+		<longitud>-2.6681</longitud>
+		<latitud>42.8410</latitud>
+		<idtipo>1</idtipo>
+	</Punto>
+	<Punto>
+		<id>5</id>
+		<direccion>C/ La Ribera, 3-F</direccion>
+		<direccioneu>C/ La Ribera, 3-F</direccioneu>
+		<nombre>Polideportivo Abetxuko</nombre>
+		<nombreeu>Polideportivo Abetxuko</nombreeu>
+		<longitud>-2.6749</longitud>
+		<latitud>42.87571</latitud>
+		<idtipo>1</idtipo>
+	</Punto>
+	<Punto>
+		<id>6</id>
+		<direccion>Plaza Zuberoa, 1</direccion>
+		<direccioneu>Plaza Zuberoa, 1</direccioneu>
+		<nombre>Centro Civico Iparralde</nombre>
+		<nombreeu>Centro Civico Iparralde</nombreeu>
+		<longitud>-2.66764</longitud>
+		<latitud>42.85484</latitud>
+		<idtipo>1</idtipo>
+	</Punto>
+	<Punto>
+		<id>7</id>
+		<direccion>Avenida de Judimendi, 26</direccion>
+		<direccioneu>Avenida de Judimendi, 26</direccioneu>
+		<nombre>Centro Civico Judimendi</nombre>
+		<nombreeu>Centro Civico Judimendi</nombreeu>
+		<longitud>-2.662345</longitud>
+		<latitud>42.844849</latitud>
+		<idtipo>1</idtipo>
+	</Punto>
+	<Punto>
+		<id>8</id>
+		<direccion>Senda de los Echanove, 2</direccion>
+		<direccioneu>Senda de los Echanove, 2</direccioneu>
+		<nombre>Centro Cívico Lakua</nombre>
+		<nombreeu>Centro Cívico Lakua</nombreeu>
+		<longitud>-2.6981</longitud>
+		<latitud>42.8577</latitud>
+		<idtipo>1</idtipo>
+	</Punto>
+	<Punto>
+		<id>9</id>
+		<direccion>Portal de Arriaga, 1-A</direccion>
+		<direccioneu>Portal de Arriaga, 1-A</direccioneu>
+		<nombre>Centro Cívico Aldabe</nombre>
+		<nombreeu>Centro Cívico Aldabe</nombreeu>
+		<longitud>-2.6760</longitud>
+		<latitud>42.8542</latitud>
+		<idtipo>1</idtipo>
+	</Punto>
+	<Punto>
+		<id>10</id>
+		<direccion>C/ Andalucia 27</direccion>
+		<direccioneu>C/ Andalucia 27</direccioneu>
+		<nombre>Polideportivo Aranalde</nombre>
+		<nombreeu>Polideportivo Aranalde</nombreeu>
+		<longitud>-2.6588</longitud>
+		<latitud>42.8511</latitud>
+		<idtipo>1</idtipo>
+	</Punto>
+	<Punto>
+		<id>11</id>
+		<direccion>C/ Francia, 24</direccion>
+		<direccioneu>C/ Francia, 24</direccioneu>
+		<nombre>Centro-Museo Artium</nombre>
+		<nombreeu>Centro-Museo Artium</nombreeu>
+		<longitud>-2.6677</longitud>
+		<latitud>42.8508</latitud>
+		<idtipo>1</idtipo>
+	</Punto>
+	<Punto>
+		<id>12</id>
+		<direccion>Senda de los Echanove, 2</direccion>
+		<direccioneu>Senda de los Echanove, 2</direccioneu>
+		<nombre>Lakua Center</nombre>
+		<nombreeu>Lakua Center</nombreeu>
+		<longitud>-2.6932</longitud>
+		<latitud>42.8646</latitud>
+		<idtipo>1</idtipo>
+	</Punto>
+	<Punto>
+		<id>13</id>
+		<direccion>C/ Teodoro González de Zarate, 38</direccion>
+		<direccioneu>C/ Teodoro González de Zarate, 38</direccioneu>
+		<nombre>Polideportivo Ariznabarra</nombre>
+		<nombreeu>Polideportivo Ariznabarra</nombreeu>
+		<longitud>-2.6948</longitud>
+		<latitud>42.8450</latitud>
+		<idtipo>1</idtipo>
+	</Punto>
+	<Punto>
+		<id>14</id>
+		<direccion>Plaza de la Constitución, 5</direccion>
+		<direccioneu>Plaza de la Constitución, 5</direccioneu>
+		<nombre>Centro Cívico El Pilar</nombre>
+		<nombreeu>Centro Cívico El Pilar</nombreeu>
+		<longitud>-2.6785</longitud>
+		<latitud>42.85552</latitud>
+		<idtipo>1</idtipo>
+	</Punto>
+	<Punto>
+		<id>15</id>
+		<direccion>Francisco Javier de Landaburu, 9-A</direccion>
+		<direccioneu>Francisco Javier de Landaburu, 9-A</direccioneu>
+		<nombre>Centro Cívico Arriaga</nombre>
+		<nombreeu>Centro Cívico Arriaga</nombreeu>
+		<longitud>-2.6799</longitud>
+		<latitud>42.86433</latitud>
+		<idtipo>1</idtipo>
+	</Punto>
+	<Punto>
+		<id>16</id>
+		<direccion>Landaverde, 31</direccion>
+		<direccioneu>Landaverde, 31</direccioneu>
+		<nombre>Centro Cívico Ibaiondo</nombre>
+		<nombreeu>Centro Cívico Ibaiondo</nombreeu>
+		<longitud>-2.69545</longitud>
+		<latitud>42.86764</latitud>
+		<idtipo>1</idtipo>
+	</Punto>
+	<Punto>
+		<id>17</id>
+		<direccion>Pintor Jesus Apellaniz, 2</direccion>
+		<direccioneu>Pintor Jesus Apellaniz, 2</direccioneu>
+		<nombre>Centro Sociocultural de San Martin</nombre>
+		<nombreeu>Centro Sociocultural de San Martin</nombreeu>
+		<longitud>-2.68314</longitud>
+		<latitud>42.84976</latitud>
+		<idtipo>1</idtipo>
+	</Punto>
+	<Punto>
+		<id>18</id>
+		<direccion>Calle Mahatma Gandhi 1 </direccion>
+		<direccioneu>Calle Mahatma Gandhi 1 </direccioneu>
+		<nombre>Centro Comercial Leclerc</nombre>
+		<nombreeu>Centro Comercial Leclerc</nombreeu>
+		<longitud>-2.69886</longitud>
+		<latitud>42.83957</latitud>
+		<idtipo>1</idtipo>
+	</Punto>
+	<!-- Paradas de autobús -->
+	<Punto>
+		<id>19</id>
+		<direccion>Reyes de Navarra 19</direccion>
+		<direccioneu>Reyes de Navarra 19</direccioneu>
+		<nombre>Circular</nombre>
+		<nombreeu>Circular</nombreeu>
+		<longitud>-2.6694</longitud>
+		<latitud>42.85800</latitud>
+		<idtipo>2</idtipo>
+	</Punto>
+	<Punto>
+		<id>20</id>
+		<direccion>Portal de Legutiano / C.C.Iparralde</direccion>
+		<direccioneu>Portal de Legutiano / C.C.Iparralde</direccioneu>
+		<nombre>Circular</nombre>
+		<nombreeu>Circular</nombreeu>
+		<longitud>-2.6665</longitud>
+		<latitud>42.85590</latitud>
+		<idtipo>2</idtipo>
+	</Punto>
+	<Punto>
+		<id>21</id>
+		<direccion>Valladolid, 10</direccion>
+		<direccioneu>Valladolid, 10</direccioneu>
+		<nombre>Circular</nombre>
+		<nombreeu>Circular</nombreeu>
+		<longitud>-2.6634</longitud>
+		<latitud>42.85369</latitud>
+		<idtipo>2</idtipo>
+	</Punto>
+	<Punto>
+		<id>22</id>
+		<direccion>Judimendi / San José</direccion>
+		<direccioneu>Judimendi / San José</direccioneu>
+		<nombre>Circular</nombre>
+		<nombreeu>Circular</nombreeu>
+		<longitud>-2.66133</longitud>
+		<latitud>42.85038</latitud>
+		<idtipo>2</idtipo>
+	</Punto>
+	<Punto>
+		<id>23</id>
+		<direccion>Av. Santiago, 43</direccion>
+		<direccioneu>Av. Santiago, 43</direccioneu>
+		<nombre>Circular</nombre>
+		<nombreeu>Circular</nombreeu>
+		<longitud>-2.66182</longitud>
+		<latitud>42.84771</latitud>
+		<idtipo>2</idtipo>
+	</Punto>
+	<Punto>
+		<id>24</id>
+		<direccion>Av. Santiago / Sanidad</direccion>
+		<direccioneu>Av. Santiago / Sanidad</direccioneu>
+		<nombre>Circular</nombre>
+		<nombreeu>Circular</nombreeu>
+		<longitud>-2.6660</longitud>
+		<latitud>42.84778</latitud>
+		<idtipo>2</idtipo>
+	</Punto>
+	<Punto>
+		<id>25</id>
+		<direccion>Paz</direccion>
+		<direccioneu>Paz</direccioneu>
+		<nombre>Circular</nombre>
+		<nombreeu>Circular</nombreeu>
+		<longitud>-2.66833</longitud>
+		<latitud>42.84492</latitud>
+		<idtipo>2</idtipo>
+	</Punto>
+	<Punto>
+		<id>26</id>
+		<direccion>Catedral</direccion>
+		<direccioneu>Catedral</direccioneu>
+		<nombre>Circular</nombre>
+		<nombreeu>Circular</nombreeu>
+		<longitud>-2.676937</longitud>
+		<latitud>42.844854</latitud>
+		<idtipo>2</idtipo>
+	</Punto>
+	<Punto>
+		<id>27</id>
+		<direccion>Micaela Portilla/Juzgados</direccion>
+		<direccioneu>Micaela Portilla/Juzgados</direccioneu>
+		<nombre>Circular</nombre>
+		<nombreeu>Circular</nombreeu>
+		<longitud>-2.6814</longitud>
+		<latitud>42.84403</latitud>
+		<idtipo>2</idtipo>
+	</Punto>
+	<Punto>
+		<id>28</id>
+		<direccion>Teodoro Dublang 49</direccion>
+		<direccioneu>Teodoro Dublang 49</direccioneu>
+		<nombre>Circular</nombre>
+		<nombreeu>Circular</nombreeu>
+		<longitud>-2.6843</longitud>
+		<latitud>42.84381</latitud>
+		<idtipo>2</idtipo>
+	</Punto>
+	<Punto>
+		<id>29</id>
+		<direccion>Teodoro Dublang / Buztinzuri</direccion>
+		<direccioneu>Teodoro Dublang / Buztinzuri</direccioneu>
+		<nombre>Circular</nombre>
+		<nombreeu>Circular</nombreeu>
+		<longitud>-2.6878</longitud>
+		<latitud>42.84495</latitud>
+		<idtipo>2</idtipo>
+	</Punto>
+	<Punto>
+		<id>30</id>
+		<direccion>Adriano VI / Buztinzuri</direccion>
+		<direccioneu>Adriano VI / Buztinzuri</direccioneu>
+		<nombre>Circular</nombre>
+		<nombreeu>Circular</nombreeu>
+		<longitud>-2.6864</longitud>
+		<latitud>42.84929</latitud>
+		<idtipo>2</idtipo>
+	</Punto>
+	<Punto>
+		<id>31</id>
+		<direccion>Av.Gasteiz / Bastiturri</direccion>
+		<direccioneu>Av.Gasteiz / Bastiturri</direccioneu>
+		<nombre>Circular</nombre>
+		<nombreeu>Circular</nombreeu>
+		<longitud>-2.6815</longitud>
+		<latitud>42.84825</latitud>
+		<idtipo>2</idtipo>
+	</Punto>
+	<Punto>
+		<id>32</id>
+		<direccion>Av.Gasteiz, 54</direccion>
+		<direccioneu>Av.Gasteiz, 54</direccioneu>
+		<nombre>Circular</nombre>
+		<nombreeu>Circular</nombreeu>
+		<longitud>-2.6807</longitud>
+		<latitud>42.85108</latitud>
+		<idtipo>2</idtipo>
+	</Punto>
+	<Punto>
+		<id>33</id>
+		<direccion>Europa</direccion>
+		<direccioneu>Europa</direccioneu>
+		<nombre>Circular</nombre>
+		<nombreeu>Circular</nombreeu>
+		<longitud>-2.68038</longitud>
+		<latitud>42.85270</latitud>
+		<idtipo>2</idtipo>
+	</Punto>
+	<Punto>
+		<id>34</id>
+		<direccion>Av.Gasteiz, 86</direccion>
+		<direccioneu>Av.Gasteiz, 86</direccioneu>
+		<nombre>Circular</nombre>
+		<nombreeu>Circular</nombreeu>
+		<longitud>-2.6798</longitud>
+		<latitud>42.85495</latitud>
+		<idtipo>2</idtipo>
+	</Punto>
+	<Punto>
+		<id>35</id>
+		<direccion>Honduras</direccion>
+		<direccioneu>Honduras</direccioneu>
+		<nombre>Circular</nombre>
+		<nombreeu>Circular</nombreeu>
+		<longitud>-2.68077</longitud>
+		<latitud>42.85733</latitud>
+		<idtipo>2</idtipo>
+	</Punto>
+	<Punto>
+		<id>36</id>
+		<direccion>Intermodal</direccion>
+		<direccioneu>Intermodal</direccioneu>
+		<nombre>Circular</nombre>
+		<nombreeu>Circular</nombreeu>
+		<longitud>-2.6801</longitud>
+		<latitud>42.85945</latitud>
+		<idtipo>2</idtipo>
+	</Punto>
+	<Punto>
+		<id>37</id>
+		<direccion>Juan de Garay / Guatemala</direccion>
+		<direccioneu>Juan de Garay / Guatemala</direccioneu>
+		<nombre>Circular</nombre>
+		<nombreeu>Circular</nombreeu>
+		<longitud>-2.67565</longitud>
+		<latitud>42.86076</latitud>
+		<idtipo>2</idtipo>
+	</Punto>
+	<Punto>
+		<id>38</id>
+		<direccion>Zaramaga / Reyes de Navarra</direccion>
+		<direccioneu>Zaramaga / Reyes de Navarra</direccioneu>
+		<nombre>Circular</nombre>
+		<nombreeu>Circular</nombreeu>
+		<longitud>-2.66987</longitud>
+		<latitud>42.86127</latitud>
+		<idtipo>2</idtipo>
+	</Punto>
+	<Punto>
+		<id>39</id>
+		<direccion>Angulema</direccion>
+		<direccioneu>Angulema</direccioneu>
+		<nombre>Circular</nombre>
+		<nombreeu>Circular</nombreeu>
+		<longitud>-2.6676</longitud>
+		<latitud>42.84400</latitud>
+		<idtipo>3</idtipo>
+	</Punto>
+	<Punto>
+		<id>40</id>
+		<direccion>Legebiltzarra/Parlamento</direccion>
+		<direccioneu>Legebiltzarra/Parlamento</direccioneu>
+		<nombre>Legebiltzarra/Parlamento</nombre>
+		<nombreeu>Legebiltzarra/Parlamento</nombreeu>
+		<longitud>-2.674329</longitud>
+		<latitud>42.845285</latitud>
+		<idtipo>3</idtipo>
+	</Punto>
+	<Punto>
+		<id>41</id>
+		<direccion>Lovaina</direccion>
+		<direccioneu>Lovaina</direccioneu>
+		<nombre>Lovaina</nombre>
+		<nombreeu>Lovaina</nombreeu>
+		<longitud>-2.67849</longitud>
+		<latitud>42.84628</latitud>
+		<idtipo>3</idtipo>
+	</Punto>
+	<Punto>
+		<id>42</id>
+		<direccion>Sancho el Sabio</direccion>
+		<direccioneu>Antso Jakituna</direccioneu>
+		<nombre>Sancho el Sabio</nombre>
+		<nombreeu>Antso Jakituna</nombreeu>
+		<longitud>-2.67997</longitud>
+		<latitud>42.84805</latitud>
+		<idtipo>3</idtipo>
+	</Punto>
+	<Punto>
+		<id>43</id>
+		<direccion>Europa</direccion>
+		<direccioneu>Europa</direccioneu>
+		<nombre>Europa</nombre>
+		<nombreeu>Europa</nombreeu>
+		<longitud>-2.68025</longitud>
+		<latitud>42.85257</latitud>
+		<idtipo>3</idtipo>
+	</Punto>
+	<Punto>
+		<id>44</id>
+		<direccion>Honduras</direccion>
+		<direccioneu>Honduras</direccioneu>
+		<nombre>Honduras</nombre>
+		<nombreeu>Honduras</nombreeu>
+		<longitud>-2.68118</longitud>
+		<latitud>42.85734</latitud>
+		<idtipo>3</idtipo>
+	</Punto>
+	<Punto>
+		<id>45</id>
+		<direccion>Boulevard de Euskal Herria</direccion>
+		<direccioneu>Boulevard de Euskal Herria</direccioneu>
+		<nombre>Boulevard de Euskal Herria</nombre>
+		<nombreeu>Boulevard de Euskal Herria</nombreeu>
+		<longitud>-2.68494</longitud>
+		<latitud>42.85806</latitud>
+		<idtipo>3</idtipo>
+	</Punto>
+	<Punto>
+		<id>46</id>
+		<direccion>Txagorritxu</direccion>
+		<direccioneu>Txagorritxu</direccioneu>
+		<nombre>Txagorritxu</nombre>
+		<nombreeu>Txagorritxu</nombreeu>
+		<longitud>-2.68879</longitud>
+		<latitud>42.85679</latitud>
+		<idtipo>3</idtipo>
+	</Punto>
+	<Punto>
+		<id>47</id>
+		<direccion>Duque de Wellington</direccion>
+		<direccioneu>Duque de Wellington</direccioneu>
+		<nombre>Duque de Wellington</nombre>
+		<nombreeu>Duque de Wellington</nombreeu>
+		<longitud>-2.69229</longitud>
+		<latitud>42.85994</latitud>
+		<idtipo>3</idtipo>
+	</Punto>
+	<Punto>
+		<id>48</id>
+		<direccion>Lakuabizkarra</direccion>
+		<direccioneu>Lakuabizkarra</direccioneu>
+		<nombre>Lakuabizkarra</nombre>
+		<nombreeu>Lakuabizkarra</nombreeu>
+		<longitud>-2.69452</longitud>
+		<latitud>42.86309</latitud>
+		<idtipo>3</idtipo>
+	</Punto>
+	<Punto>
+		<id>49</id>
+		<direccion>Landaberde</direccion>
+		<direccioneu>Landaberde</direccioneu>
+		<nombre>Landaberde</nombre>
+		<nombreeu>Landaberde</nombreeu>
+		<longitud>-2.69847</longitud>
+		<latitud>42.86620</latitud>
+		<idtipo>3</idtipo>
+	</Punto>
+	<Punto>
+		<id>50</id>
+		<direccion>Ibaiondo</direccion>
+		<direccioneu>Ibaiondo</direccioneu>
+		<nombre>Ibaiondo</nombre>
+		<nombreeu>Ibaiondo</nombreeu>
+		<longitud>-2.70210</longitud>
+		<latitud>42.86479</latitud>
+		<idtipo>3</idtipo>
+	</Punto>
+	<Punto>
+		<id>51</id>
+		<direccion>Intermodal</direccion>
+		<direccioneu>Intermodal</direccioneu>
+		<nombre>Intermodal</nombre>
+		<nombreeu>Intermodal</nombreeu>
+		<longitud>-2.68270</longitud>
+		<latitud>42.86042</latitud>
+		<idtipo>3</idtipo>
+	</Punto>
+	<Punto>
+		<id>52</id>
+		<direccion>Portal de Foronda</direccion>
+		<direccioneu>Forondako Atea</direccioneu>
+		<nombre>Portal de Foronda</nombre>
+		<nombreeu>Forondako Atea</nombreeu>
+		<longitud>-2.68444</longitud>
+		<latitud>42.86290</latitud>
+		<idtipo>3</idtipo>
+	</Punto>
+	<Punto>
+		<id>53</id>
+		<direccion>Arbol de Gernika</direccion>
+		<direccioneu>Gernikako Arbola</direccioneu>
+		<nombre>Arbol de Gernika</nombre>
+		<nombreeu>Gernikako Arbola</nombreeu>
+		<longitud>-2.68060</longitud>
+		<latitud>42.86490</latitud>
+		<idtipo>3</idtipo>
+	</Punto>
+	<Punto>
+		<id>54</id>
+		<direccion>Arriaga</direccion>
+		<direccioneu>Arriaga</direccioneu>
+		<nombre>Arriaga</nombre>
+		<nombreeu>Arriaga</nombreeu>
+		<longitud>-2.67864</longitud>
+		<latitud>42.86665</latitud>
+		<idtipo>3</idtipo>
+	</Punto>
+	<Punto>
+		<id>55</id>
+		<direccion>Artapadura</direccion>
+		<direccioneu>Artapadura</direccioneu>
+		<nombre>Artapadura</nombre>
+		<nombreeu>Artapadura</nombreeu>
+		<longitud>-2.68024</longitud>
+		<latitud>42.86946</latitud>
+		<idtipo>3</idtipo>
+	</Punto>
+	<Punto>
+		<id>56</id>
+		<direccion>Abetxuko</direccion>
+		<direccioneu>Abetxuko</direccioneu>
+		<nombre>Abetxuko</nombre>
+		<nombreeu>Abetxuko</nombreeu>
+		<longitud>-2.68124</longitud>
+		<latitud>42.87380</latitud>
+		<idtipo>3</idtipo>
+	</Punto>
+</Puntos>

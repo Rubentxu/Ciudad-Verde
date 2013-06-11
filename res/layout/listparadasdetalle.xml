@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/detalle1_linearsuperior"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dip"
+        android:orientation="horizontal"
+        android:background="#40A737" >
+
+        <TextView
+            android:id="@+id/detalle1_nombre"
+            android:layout_width="250dip"
+            android:layout_height="wrap_content"
+            android:paddingRight="25dip"
+            android:paddingTop="10dip"
+            android:text="Nombre"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ImageView
+            android:id="@+id/detalle1_imagen"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dip"
+            android:paddingBottom="10dip"
+            android:src="@drawable/ic_launcher" />
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@+id/detalle1_scroll"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:id="@+id/detalle1_lineainferior"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" 
+            android:paddingLeft="7dp"            >
+
+            <TextView
+                android:id="@+id/detalle1_labeldireccion"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="5dip"
+                android:paddingTop="20dip"
+                android:text="Dirección:" />
+
+            <TextView
+                android:id="@+id/detalle1_direccion"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="20dip"
+                android:text="La dirección" />
+
+            <TextView
+                android:id="@+id/detalle1_labelnumbicis"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="5dip"
+                android:text="Bicicletas disponibles:" />
+
+            <TextView
+                android:id="@+id/detalle1_numbicis"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="20dip"
+                android:text="Cuantas" />
+
+            <TextView
+                android:id="@+id/detalle1_labeltelefono"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="5dip"
+                android:text="Teléfono:" />
+
+            <TextView
+                android:id="@+id/detalle1_telefono"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="20dip"
+                android:text="945000000" />
+
+            <TextView
+                android:id="@+id/detalle1_labelemail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="5dip"
+                android:text="Email:" />
+
+            <TextView
+                android:id="@+id/detalle1_email"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="20dip"
+                android:text="info@ciudadverde.com" />
+
+            <TextView
+                android:id="@+id/detalle1_labelhorario"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="5dip"
+                android:text="Horario:" />
+
+            <TextView
+                android:id="@+id/detalle1_horario"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="20dip"
+                android:text="9:00 - 21:00" />
+
+            <TextView
+                android:id="@+id/detalle1_labelresponsable"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="5dip"
+                android:text="Responsable:" />
+
+            <TextView
+                android:id="@+id/detalle1_responsable"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="20dip"
+                android:text="David" />
+
+            <TextView
+                android:id="@+id/detalle1_descripcion"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Esta es la descripción del punto donde se dejan las bicicletas en Vitoria-Gasteiz." />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

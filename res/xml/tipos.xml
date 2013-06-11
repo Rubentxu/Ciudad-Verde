@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tipos>
+	<Tipo>
+		<id>1</id>
+		<nombre>Bicis</nombre>
+	</Tipo>
+	<Tipo>
+		<id>2</id>
+		<nombre>Autobús</nombre>
+	</Tipo>
+	<Tipo>
+		<id>3</id>
+		<nombre>Tranvía</nombre>
+	</Tipo>
+</Tipos>

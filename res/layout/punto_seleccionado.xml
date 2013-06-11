@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:padding="5px">
+
+	<TextView android:id="@+id/pt_nombre" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:layout_centerHorizontal="true"
+		android:gravity="center_horizontal" android:layout_marginBottom="5px"
+		 />
+
+	<TextView android:id="@+id/pt_direccion"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:gravity="left" android:layout_marginBottom="3px"
+		android:layout_below="@+id/pt_nombre"  />
+
+
+	<TextView android:id="@+id/pt_longitud"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:gravity="left" android:layout_marginBottom="3px"
+		android:layout_below="@+id/pt_direccion" />
+	
+	<TextView android:id="@+id/pt_latitud"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:gravity="left" android:layout_marginBottom="5px"
+		android:layout_below="@+id/pt_longitud"  />
+
+	<TextView android:id="@+id/pt_tipo"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:gravity="left" android:layout_marginBottom="3px"
+		android:layout_below="@+id/pt_latitud" />
+	
+
+</RelativeLayout> 

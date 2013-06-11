@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Lineas>
+	<Linea>
+		<id>1</id>
+		<idtipo>2</idtipo>
+		<nombre>Línea 1. Circular</nombre>
+		<nombreeu>Línea 1. Circular</nombreeu>
+		<horainicio>06:15</horainicio>
+		<horafin>22:25</horafin>
+		<datos>Datos línea 1 circular</datos>
+		<datoseu>Datos línea 1 circular</datoseu>
+		<frecuencia>15</frecuencia>
+	</Linea>
+	<Linea>
+		<id>2</id>
+		<idtipo>2</idtipo>
+		<nombre>Línea 2a. Periférica</nombre>
+		<nombreeu>Línea 2a. Periférica</nombreeu>
+		<horainicio>00:00</horainicio>
+		<horafin>23:59</horafin>
+		<datos>Datos línea 2a periférica</datos>
+		<datoseu>Datos línea 2a periférica</datoseu>
+		<frecuencia>10</frecuencia>
+	</Linea>
+	<Linea>
+		<id>3</id>
+		<idtipo>2</idtipo>
+		<nombre>Línea 2b. Periférica</nombre>
+		<nombreeu>Línea 2b. Periférica</nombreeu>
+		<horainicio>00:00</horainicio>
+		<horafin>23:59</horafin>
+		<datos>Datos línea 2b periférica</datos>
+		<datoseu>Datos línea 2b periférica</datoseu>
+		<frecuencia>10</frecuencia>
+	</Linea>
+	<Linea>
+		<id>4</id>
+		<idtipo>2</idtipo>
+		<nombre>Betoño-Zumaquera</nombre>
+		<nombreeu>Betoño-Zumaquera</nombreeu>
+		<horainicio>00:00</horainicio>
+		<horafin>23:59</horafin>
+		<datos>Datos línea Betoño-Zumaquera</datos>
+		<datoseu>Datos línea Betoño-Zumaquera</datoseu>
+		<frecuencia>10</frecuencia>
+	</Linea>
+	<Linea>
+		<id>5</id>
+		<idtipo>2</idtipo>
+		<nombre>Lakua-Mariturri</nombre>
+		<nombreeu>Lakua-Mariturri</nombreeu>
+		<horainicio>00:00</horainicio>
+		<horafin>23:59</horafin>
+		<datos>Datos línea Lakua-Mariturri</datos>
+		<datoseu>Datos línea Lakua-Mariturri</datoseu>
+		<frecuencia>10</frecuencia>
+	</Linea>
+	<Linea>
+		<id>6</id>
+		<idtipo>2</idtipo>
+		<nombre>Salburua-Sansomendi</nombre>
+		<nombreeu>Salburua-Sansomendi</nombreeu>
+		<horainicio>00:00</horainicio>
+		<horafin>23:59</horafin>
+		<datos>Datos línea Salburua-Sansomendi</datos>
+		<datoseu>Datos línea Salburua-Sansomendi</datoseu>
+		<frecuencia>10</frecuencia>
+	</Linea>
+	<Linea>
+		<id>7</id>
+		<idtipo>2</idtipo>
+		<nombre>Zabalgana-Salburua</nombre>
+		<nombreeu>Zabalgana-Salburua</nombreeu>
+		<horainicio>00:00</horainicio>
+		<horafin>23:59</horafin>
+		<datos>Zabalgana-Salburua</datos>
+		<datoseu>Zabalgana-Salburua</datoseu>
+		<frecuencia>10</frecuencia>
+	</Linea>
+	<Linea>
+		<id>8</id>
+		<idtipo>2</idtipo>
+		<nombre>Sansomendi-Salburua</nombre>
+		<nombreeu>Sansomendi-Salburua</nombreeu>
+		<horainicio>00:00</horainicio>
+		<horafin>23:59</horafin>
+		<datos>Sansomendi-Salburua</datos>
+		<datoseu>Sansomendi-Salburua</datoseu>
+		<frecuencia>10</frecuencia>
+	</Linea>
+	<Linea>
+		<id>9</id>
+		<idtipo>2</idtipo>
+		<nombre>Unibertsitatea</nombre>
+		<nombreeu>Unibertsitatea</nombreeu>
+		<horainicio>00:00</horainicio>
+		<horafin>23:59</horafin>
+		<datos>Unibertsitatea</datos>
+		<datoseu>Unibertsitatea</datoseu>
+		<frecuencia>10</frecuencia>
+	</Linea>
+	<Linea>
+		<id>10</id>
+		<idtipo>2</idtipo>
+		<nombre>Gamarra-Zumaquera</nombre>
+		<nombreeu>Gamarra-Zumaquera</nombreeu>
+		<horainicio>00:00</horainicio>
+		<horafin>23:59</horafin>
+		<datos>Gamarra-Zumaquera</datos>
+		<datoseu>Gamarra-Zumaquera</datoseu>
+		<frecuencia>10</frecuencia>
+	</Linea>
+	<Linea>
+		<id>11</id>
+		<idtipo>2</idtipo>
+		<nombre>Gautxori 1. Lakua-Abetxuko</nombre>
+		<nombreeu>Gautxori 1. Lakua-Abetxuko</nombreeu>
+		<horainicio>00:00</horainicio>
+		<horafin>23:59</horafin>
+		<datos>Gautxori 1. Lakua-Abetxuko</datos>
+		<datoseu>Gautxori 1. Lakua-Abetxuko</datoseu>
+		<frecuencia>10</frecuencia>
+	</Linea>
+	<Linea>
+		<id>12</id>
+		<idtipo>2</idtipo>
+		<nombre>Gautxori 2. Adurtza-Salburua</nombre>
+		<nombreeu>Gautxori 2. Adurtza-Salburua</nombreeu>
+		<horainicio>00:00</horainicio>
+		<horafin>23:59</horafin>
+		<datos>Gautxori 2. Adurtza-Salburua</datos>
+		<datoseu>Gautxori 2. Adurtza-Salburua</datoseu>
+		<frecuencia>10</frecuencia>
+	</Linea>
+	<Linea>
+		<id>13</id>
+		<idtipo>2</idtipo>
+		<nombre>Gautxori 3. Armentia-Zabalgana</nombre>
+		<nombreeu>Gautxori 3. Armentia-Zabalgana</nombreeu>
+		<horainicio>00:00</horainicio>
+		<horafin>23:59</horafin>
+		<datos>Gautxori 3. Armentia-Zabalgana</datos>
+		<datoseu>Gautxori 3. Armentia-Zabalgana</datoseu>
+		<frecuencia>10</frecuencia>
+	</Linea>
+	<Linea>
+		<id>14</id>
+		<idtipo>2</idtipo>
+		<nombre>Gautxori 4. Sansomendi-Lakua</nombre>
+		<nombreeu>Gautxori 4. Sansomendi-Lakua</nombreeu>
+		<horainicio>00:00</horainicio>
+		<horafin>23:59</horafin>
+		<datos>Gautxori 4. Sansomendi-Lakua</datos>
+		<datoseu>Gautxori 4. Sansomendi-Lakua</datoseu>
+		<frecuencia>10</frecuencia>
+	</Linea>
+	<Linea>
+		<id>15</id>
+		<idtipo>2</idtipo>
+		<nombre>Gautxori 5. Zaramaga</nombre>
+		<nombreeu>Gautxori 5. Zaramaga</nombreeu>
+		<horainicio>00:00</horainicio>
+		<horafin>23:59</horafin>
+		<datos>Gautxori 5. Zaramaga</datos>
+		<datoseu>Gautxori 5. Zaramaga</datoseu>
+		<frecuencia>10</frecuencia>
+	</Linea>
+	<Linea>
+		<id>16</id>
+		<idtipo>2</idtipo>
+		<nombre>Gautxori 6. Salburua-Aranbizkarra</nombre>
+		<nombreeu>Gautxori 6. Salburua-Aranbizkarra</nombreeu>
+		<horainicio>00:00</horainicio>
+		<horafin>23:59</horafin>
+		<datos>Gautxori 6. Salburua-Aranbizkarra</datos>
+		<datoseu>Gautxori 6. Salburua-Aranbizkarra</datoseu>
+		<frecuencia>10</frecuencia>
+	</Linea>
+	<Linea>
+		<id>17</id>
+		<idtipo>3</idtipo>
+		<nombre>Ibaiondo</nombre>
+		<nombreeu>Ibaiondo</nombreeu>
+		<horainicio>00:00</horainicio>
+		<horafin>23:59</horafin>
+		<datos>Ibaiondo</datos>
+		<datoseu>Ibaiondo</datoseu>
+		<frecuencia>15</frecuencia>
+	</Linea>
+	<Linea>
+		<id>18</id>
+		<idtipo>3</idtipo>
+		<nombre>Abetxuko</nombre>
+		<nombreeu>Abetxuko</nombreeu>
+		<horainicio>00:00</horainicio>
+		<horafin>23:59</horafin>
+		<datos>Abetxuko</datos>
+		<datoseu>Abetxuko</datoseu>
+		<frecuencia>15</frecuencia>
+	</Linea>
+</Lineas>

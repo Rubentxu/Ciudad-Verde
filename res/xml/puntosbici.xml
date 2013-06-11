@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PuntosBici>
+	<PuntoBici>
+		<id>1</id>
+		<idpunto>1</idpunto>
+		<numerobicis>0</numerobicis>
+		<descripcion>No disponible</descripcion>
+		<telefono>No disponible</telefono>
+		<cp>01013</cp>
+		<email>No disponible</email>
+		<horainicio>10:00</horainicio>
+		<horafin>21:00</horafin>
+		<responsable>No disponible</responsable>
+	</PuntoBici>
+	<PuntoBici>
+		<id>2</id>
+		<idpunto>2</idpunto>
+		<numerobicis>0</numerobicis>
+		<descripcion>La oficina de turismo es un espacio abierto a ciudadanía y visitantes. Con el desarrollo de diferentes actividades y programas se busca la promoción de la ciudad y provincia, dentro y fuera de la ciudad. La oficina cuenta en la actualidad con el premio Cascabel de Oro 2005 de la ONCE, el Sello de Accesibilidad en todas sus modalidades y la Q de Calidad Turística. </descripcion>
+		<telefono>945161598</telefono>
+		<cp>01001</cp>
+		<email>turismo@vitoria-gasteiz.org</email>
+		<horainicio>10:00</horainicio>
+		<horafin>19:00</horafin>
+		<responsable>Clara Navas Romano</responsable>
+	</PuntoBici>
+	<PuntoBici>
+		<id>3</id>
+		<idpunto>3</idpunto>
+		<numerobicis>0</numerobicis>
+		<descripcion>No disponible</descripcion>
+		<telefono>945161518</telefono>
+		<cp>01007</cp>
+		<email>mendizorroza.coo@vitoria-gasteiz.org</email>
+		<horainicio>10:00</horainicio>
+		<horafin>21:00</horafin>
+		<responsable>No disponible</responsable>
+	</PuntoBici>
+	<PuntoBici>
+		<id>4</id>
+		<idpunto>4</idpunto>
+		<numerobicis>0</numerobicis>
+		<descripcion>No disponible</descripcion>
+		<telefono>945161880</telefono>
+		<cp>01006</cp>
+		<email>informacion@vitoria-gasteiz.org </email>
+		<horainicio>08:00</horainicio>
+		<horafin>22:00</horafin>
+		<responsable>No disponible</responsable>
+	</PuntoBici>
+	<PuntoBici>
+		<id>5</id>
+		<idpunto>5</idpunto>
+		<numerobicis>0</numerobicis>
+		<descripcion>No disponible</descripcion>
+		<telefono>945161501</telefono>
+		<cp>01013</cp>
+		<email>pol.arriaga.dep@vitoria-gasteiz.org</email>
+		<horainicio>08:00</horainicio>
+		<horafin>22:00</horafin>
+		<responsable>No disponible</responsable>
+	</PuntoBici>
+	<PuntoBici>
+		<id>6</id>
+		<idpunto>6</idpunto>
+		<numerobicis>0</numerobicis>
+		<descripcion>No disponible</descripcion>
+		<telefono>945161750</telefono>
+		<cp>01002</cp>
+		<email>informacion@vitoria-gasteiz.org</email>
+		<horainicio>08:00</horainicio>
+		<horafin>22:00</horafin>
+		<responsable>No disponible</responsable>
+	</PuntoBici>
+	<PuntoBici>
+		<id>7</id>
+		<idpunto>7</idpunto>
+		<numerobicis>0</numerobicis>
+		<descripcion>No disponible</descripcion>
+		<telefono>945161740</telefono>
+		<cp>01003</cp>
+		<email>informacion@vitoria-gasteiz.org</email>
+		<horainicio>08:00</horainicio>
+		<horafin>22:00</horafin>
+		<responsable>No disponible</responsable>
+	</PuntoBici>
+	<PuntoBici>
+		<id>8</id>
+		<idpunto>8</idpunto>
+		<numerobicis>0</numerobicis>
+		<descripcion>No disponible</descripcion>
+		<telefono>945162630</telefono>
+		<cp>01010</cp>
+		<email>informacion@vitoria-gasteiz.org</email>
+		<horainicio>08:00</horainicio>
+		<horafin>22:00</horafin>
+		<responsable>No disponible</responsable>
+	</PuntoBici>
+	<PuntoBici>
+		<id>9</id>
+		<idpunto>9</idpunto>
+		<numerobicis>0</numerobicis>
+		<descripcion>No disponible</descripcion>
+		<telefono>945161930</telefono>
+		<cp>01012</cp>
+		<email>informacion@vitoria-gasteiz.org</email>
+		<horainicio>08:00</horainicio>
+		<horafin>21:30</horafin>
+		<responsable>No disponible</responsable>
+	</PuntoBici>
+	<PuntoBici>
+		<id>10</id>
+		<idpunto>10</idpunto>
+		<numerobicis>0</numerobicis>
+		<descripcion>No disponible</descripcion>
+		<telefono>945161503</telefono>
+		<cp>01003</cp>
+		<email>cc.judimendi.dep@vitoria-gasteiz.org</email>
+		<horainicio>08:00</horainicio>
+		<horafin>22:00</horafin>
+		<responsable>No disponible</responsable>
+	</PuntoBici>
+	<PuntoBici>
+		<id>11</id>
+		<idpunto>11</idpunto>
+		<numerobicis>0</numerobicis>
+		<descripcion>No disponible</descripcion>
+		<telefono>945209000</telefono>
+		<cp>01002</cp>
+		<email>museo@artium.org</email>
+		<horainicio>08:00</horainicio>
+		<horafin>22:00</horafin>
+		<responsable>No disponible</responsable>
+	</PuntoBici>
+	<PuntoBici>
+		<id>12</id>
+		<idpunto>12</idpunto>
+		<numerobicis>0</numerobicis>
+		<descripcion>No disponible</descripcion>
+		<telefono>945162630</telefono>
+		<cp>01010</cp>
+		<email>informacion@vitoria-gasteiz.org </email>
+		<horainicio>08:00</horainicio>
+		<horafin>22:00</horafin>
+		<responsable>No disponible</responsable>
+	</PuntoBici>
+	<PuntoBici>
+		<id>13</id>
+		<idpunto>13</idpunto>
+		<numerobicis>0</numerobicis>
+		<descripcion>No disponible</descripcion>
+		<telefono>945161511</telefono>
+		<cp>01007</cp>
+		<email>pol.arriaga.dep@vitoria-gasteiz.org</email>
+		<horainicio>08:00</horainicio>
+		<horafin>22:00</horafin>
+		<responsable>No disponible</responsable>
+	</PuntoBici>
+	<PuntoBici>
+		<id>14</id>
+		<idpunto>14</idpunto>
+		<numerobicis>0</numerobicis>
+		<descripcion>No disponible</descripcion>
+		<telefono>945161233</telefono>
+		<cp>01010</cp>
+		<email>informacion@vitoria-gasteiz.org</email>
+		<horainicio>08:00</horainicio>
+		<horafin>22:00</horafin>
+		<responsable>No disponible</responsable>
+	</PuntoBici>
+	<PuntoBici>
+		<id>15</id>
+		<idpunto>15</idpunto>
+		<numerobicis>0</numerobicis>
+		<descripcion>No disponible</descripcion>
+		<telefono>945161770</telefono>
+		<cp>01010</cp>
+		<email>informacion@vitoria-gasteiz.org</email>
+		<horainicio>08:00</horainicio>
+		<horafin>22:00</horafin>
+		<responsable>No disponible</responsable>
+	</PuntoBici>
+	<PuntoBici>
+		<id>16</id>
+		<idpunto>16</idpunto>
+		<numerobicis>0</numerobicis>
+		<descripcion>No disponible</descripcion>
+		<telefono>945161813</telefono>
+		<cp>01010</cp>
+		<email>informacion@vitoria-gasteiz.org</email>
+		<horainicio>08:00</horainicio>
+		<horafin>22:00</horafin>
+		<responsable>No disponible</responsable>
+	</PuntoBici>
+	<PuntoBici>
+		<id>17</id>
+		<idpunto>17</idpunto>
+		<numerobicis>0</numerobicis>
+		<descripcion>No disponible</descripcion>
+		<telefono>945003413</telefono>
+		<cp>01008</cp>
+		<email>informacion@vitoria-gasteiz.org</email>
+		<horainicio>08:00</horainicio>
+		<horafin>21:30</horafin>
+		<responsable>No disponible</responsable>
+	</PuntoBici>
+	<PuntoBici>
+		<id>18</id>
+		<idpunto>18</idpunto>
+		<numerobicis>0</numerobicis>
+		<descripcion>No disponible</descripcion>
+		<telefono>945204314</telefono>
+		<cp>01015</cp>
+		<email>No disponible</email>
+		<horainicio>08:00</horainicio>
+		<horafin>21:30</horafin>
+		<responsable>No disponible</responsable>
+	</PuntoBici>
+</PuntosBici>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen 
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Ajustes">
+        <EditTextPreference 
+            android:key="urlbicis"
+            android:title="Url de bicicletas" 
+            android:defaultValue="http://bit.ly/uFBQEJ" />                 
+    </PreferenceCategory>     
+</PreferenceScreen>
